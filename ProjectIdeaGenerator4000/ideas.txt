@@ -1,0 +1,11 @@
+﻿CLI App (Any lang)
+Web App (ASP.Net, Django, Blazor etc.)
+Text Editor
+Custom IDE (Simple/Complex)
+Scripting language
+Image Metadata reader
+Image Viewer
+PDF Viewer
+PDF Editor
+PDF Maker
+Computer Vision
